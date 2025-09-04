@@ -120,7 +120,6 @@ const Navigation = ({ activeSection, onSectionChange }) => {
   const navItems = [
     { id: 'home', label: 'Início' },
     { id: 'projects', label: 'Projetos' },
-    { id: 'goals', label: 'Metas' },
   ];
 
   const handleNavClick = (sectionId) => {

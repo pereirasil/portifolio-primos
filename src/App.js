@@ -3,7 +3,6 @@ import { GlobalStyles } from './styles/GlobalStyles';
 import Navigation from './components/Navigation';
 import HeroSection from './sections/HeroSection';
 import ProjectsSection from './sections/ProjectsSection';
-import FutureGoalsSection from './sections/FutureGoalsSection';
 import Footer from './sections/Footer';
 
 /**
@@ -23,9 +22,6 @@ function App() {
         </div>
         <div id="projects">
           <ProjectsSection />
-        </div>
-        <div id="goals">
-          <FutureGoalsSection />
         </div>
         <Footer />
       </div>

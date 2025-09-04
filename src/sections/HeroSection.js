@@ -246,7 +246,7 @@ const HeroSection = () => {
             </MainTitle>
 
             <Subtitle variants={itemVariants}>
-              Dois primos que adoram programar!
+              Dois primos que amam programar!
             </Subtitle>
 
             <AvatarContainer variants={itemVariants}>
